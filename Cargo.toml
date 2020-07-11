@@ -1,6 +1,6 @@
 [package]
 name = "braillepatterndots"
-version = "0.1.0"
+version = "0.1.1"
 description = "A simple library for braille pattern"
 authors = ["Yunseo Hwang <yunseo.h68@gmail.com>"]
 edition = "2018"

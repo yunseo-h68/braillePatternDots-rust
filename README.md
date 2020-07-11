@@ -4,7 +4,7 @@ A simple library for braille pattern written rust.
 
 ## Structs
 
-- Braille
+- [Braille](#braillepatterndotsbraille)
 
 ### braillepatterndots::Braille
 
@@ -18,10 +18,10 @@ pub struct Braille {
 
 ## Functions
 
-- braillepatterndots::bpd::get_code
-- braillepatterndots::bpd::get_char
-- braillepatterndots::bpd::get
-- braillepatterndots::bpd::gets
+- [braillepatterndots::bpd::get_code](#braillepatterndotsbpdget_code)
+- [braillepatterndots::bpd::get_char](#braillepatterndotsbpdget_char)
+- [braillepatterndots::bpd::get](#braillepatterndotsbpdget)
+- [braillepatterndots::bpd::gets](#braillepatterndotsbpdgets)
 
 ### braillepatterndots::bpd::get_code
 
