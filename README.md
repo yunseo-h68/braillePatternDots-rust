@@ -1,6 +1,6 @@
 # braillePatternDots-rust
 
-A simple library for braille pattern written rust.
+A simple crate for braille pattern
 
 ## Structs
 
