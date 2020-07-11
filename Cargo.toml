@@ -1,0 +1,12 @@
+[package]
+name = "braillepatterndots"
+version = "0.1.0"
+description = "A simple library for braille pattern"
+authors = ["Yunseo Hwang <yunseo.h68@gmail.com>"]
+edition = "2018"
+license = "MIT"
+
+homepage = "https://github.com/yunseo-h68/braillePatternDots-rust"
+repository = "https://github.com/yunseo-h68/braillePatternDots-rust"
+readme = "README.md"
+keywords = ["braille", "pattern", "dots"]
